@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Silver Cloud</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="facebook_app_id">998987947530887</string>
+    <string name="fb_login_protocol_scheme">fb998987947530887</string>
+
+</resources>
