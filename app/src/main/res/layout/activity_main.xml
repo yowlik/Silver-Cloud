@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="#3A0543"
     android:layout_height="match_parent"
     tools:context=".black.MainActivity">
 
@@ -15,6 +16,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:lottie_autoPlay="true"
         app:lottie_loop="true"
-        app:lottie_url="https://assets9.lottiefiles.com/packages/lf20_igywlz6z.json"/>
+        app:lottie_url="https://assets1.lottiefiles.com/packages/lf20_tbhh9iso.json"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

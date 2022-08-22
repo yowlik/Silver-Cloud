@@ -23,11 +23,13 @@
             android:background="@color/black"
             android:gravity="center"
             android:text="Your Score"
+            android:fontFamily="@font/fonts"
             android:textColor="@color/white"
             android:textSize="28dp" />
 
         <TextView
             android:id="@+id/yourscr"
+            android:fontFamily="@font/fonts"
             android:layout_width="match_parent"
             android:layout_height="40dp"
             android:background="@color/white"
@@ -54,12 +56,14 @@
             android:layout_height="40dp"
             android:background="@color/black"
             android:gravity="center"
+            android:fontFamily="@font/fonts"
             android:text="Enemy Score"
             android:textColor="@color/white"
             android:textSize="28dp" />
 
         <TextView
             android:id="@+id/enemyscr"
+            android:fontFamily="@font/fonts"
             android:layout_width="match_parent"
             android:layout_height="40dp"
             android:background="@color/white"
